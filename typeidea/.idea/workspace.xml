@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0642e7e2-401d-46c9-8074-233d99f57879" name="Default Changelist" comment="" />
+    <list default="true" id="0642e7e2-401d-46c9-8074-233d99f57879" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/settings/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/develop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +48,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IgnoredFileRootStore">
@@ -37,6 +72,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -91,6 +132,9 @@
       <workItem from="1582410852652" duration="453000" />
       <workItem from="1582411654034" duration="279000" />
       <workItem from="1582413171809" duration="130000" />
+      <workItem from="1582414823421" duration="90000" />
+      <workItem from="1582414940912" duration="1591000" />
+      <workItem from="1582817208543" duration="11992000" />
     </task>
     <servers />
   </component>
@@ -98,43 +142,59 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="202" key="#Test:_" timestamp="1582489796776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="533" y="202" key="#Test:_/0.0.1680.1050@0.0.1680.1050" timestamp="1582489796776" />
     <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582413223027">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582413223027" />
+    <state x="421" y="130" key="CommitChangelistDialog2" timestamp="1583339222959">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="130" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1583339222959" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1583323394907">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583323394907" />
     <state x="594" y="296" key="EnvironmentVariablesDialog" timestamp="1582410715412">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="594" y="296" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582410715412" />
-    <state width="1638" height="293" key="GridCell.Tab.0.bottom" timestamp="1582413301356">
+    <state width="1638" height="293" key="GridCell.Tab.0.bottom" timestamp="1583323236267">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="293" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582413301356" />
+    <state width="1638" height="293" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1583323236267" />
     <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1582407274554" />
-    <state width="1638" height="293" key="GridCell.Tab.0.center" timestamp="1582413301355">
+    <state width="1638" height="293" key="GridCell.Tab.0.center" timestamp="1583323236266">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="293" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582413301355" />
+    <state width="1638" height="293" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1583323236266" />
     <state width="1638" height="254" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1582407274553" />
-    <state width="1638" height="293" key="GridCell.Tab.0.left" timestamp="1582413301354">
+    <state width="1638" height="293" key="GridCell.Tab.0.left" timestamp="1583323236265">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="293" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582413301354" />
+    <state width="1638" height="293" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1583323236265" />
     <state width="1638" height="254" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1582407274553" />
-    <state width="1638" height="293" key="GridCell.Tab.0.right" timestamp="1582413301355">
+    <state width="1638" height="293" key="GridCell.Tab.0.right" timestamp="1583323236267">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="293" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582413301355" />
+    <state width="1638" height="293" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1583323236267" />
     <state width="1638" height="254" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1582407274554" />
     <state x="341" y="125" key="SettingsEditor" timestamp="1582411842488">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="125" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582411842488" />
     <state x="341" y="136" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1582407100883" />
-    <state x="494" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1582410010396">
+    <state x="494" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1582817209698">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="494" y="342" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582410010396" />
+    <state x="494" y="342" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582817209698" />
     <state x="494" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.949@0.23.1680.949" timestamp="1582405614843" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583312800964">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583312800964" />
   </component>
 </project>
